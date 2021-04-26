@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>E:/MonoGame/Final/Lab05/DrawingExample/DrawingExample/Content/explosion.wav</File>
+    <File>E:/MonoGame/Final/Lab05/DrawingExample/DrawingExample/Content/File.spritefont</File>
+    <File>E:/MonoGame/Final/Lab05/DrawingExample/DrawingExample/Content/hit.wav</File>
+    <File>E:/MonoGame/Final/Lab05/DrawingExample/DrawingExample/Content/sawsquarenoise - Stage  3.mp3</File>
+    <File>E:/MonoGame/Final/Lab05/DrawingExample/DrawingExample/Content/shoot.wav</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File>Font.spritefont</File>
+    <File xsi:nil="true" />
+    <File>mainTheme.mp3</File>
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

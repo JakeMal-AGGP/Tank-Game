@@ -1,0 +1,167 @@
+d:\Git\DrawingExample\DrawingExample\DrawingExample\bin\Windows\x86\Debug\DrawingExample.exe
+d:\Git\DrawingExample\DrawingExample\DrawingExample\bin\Windows\x86\Debug\DrawingExample.pdb
+d:\Git\DrawingExample\DrawingExample\DrawingExample\bin\Windows\x86\Debug\MonoGame.Framework.dll
+d:\Git\DrawingExample\DrawingExample\DrawingExample\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+d:\Git\DrawingExample\DrawingExample\DrawingExample\bin\Windows\x86\Debug\SharpDX.dll
+d:\Git\DrawingExample\DrawingExample\DrawingExample\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+d:\Git\DrawingExample\DrawingExample\DrawingExample\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+d:\Git\DrawingExample\DrawingExample\DrawingExample\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+d:\Git\DrawingExample\DrawingExample\DrawingExample\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+d:\Git\DrawingExample\DrawingExample\DrawingExample\bin\Windows\x86\Debug\SharpDX.XInput.dll
+d:\Git\DrawingExample\DrawingExample\DrawingExample\bin\Windows\x86\Debug\MonoGame.Framework.xml
+d:\Git\DrawingExample\DrawingExample\DrawingExample\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+d:\Git\DrawingExample\DrawingExample\DrawingExample\bin\Windows\x86\Debug\SharpDX.xml
+d:\Git\DrawingExample\DrawingExample\DrawingExample\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+d:\Git\DrawingExample\DrawingExample\DrawingExample\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+d:\Git\DrawingExample\DrawingExample\DrawingExample\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+d:\Git\DrawingExample\DrawingExample\DrawingExample\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+d:\Git\DrawingExample\DrawingExample\DrawingExample\bin\Windows\x86\Debug\SharpDX.XInput.xml
+d:\Git\DrawingExample\DrawingExample\DrawingExample\obj\x86\Debug\DrawingExample.csprojAssemblyReference.cache
+d:\Git\DrawingExample\DrawingExample\DrawingExample\obj\x86\Debug\DrawingExample.csproj.CoreCompileInputs.cache
+d:\Git\DrawingExample\DrawingExample\DrawingExample\obj\x86\Debug\DrawingExample.csproj.CopyComplete
+d:\Git\DrawingExample\DrawingExample\DrawingExample\obj\x86\Debug\DrawingExample.exe
+d:\Git\DrawingExample\DrawingExample\DrawingExample\obj\x86\Debug\DrawingExample.pdb
+d:\Git\DrawingExample\DrawingExample\DrawingExample\bin\Windows\x86\Debug\Content\MFalcon.xnb
+d:\Git\DrawingExample\DrawingExample\DrawingExample\bin\Windows\x86\Debug\Content\Enterprise.xnb
+d:\Git\DrawingExample\DrawingExample\DrawingExample\bin\Windows\x86\Debug\Content\Tie.xnb
+d:\Git\DrawingExample\DrawingExample\DrawingExample\bin\Windows\x86\Debug\Content\TieAdvanced.xnb
+D:\GIT\AGGP247_WorkSpace\DrawingExample\DrawingExample\DrawingExample\obj\x86\Debug\DrawingExample.csprojAssemblyReference.cache
+D:\GIT\AGGP247_WorkSpace\DrawingExample\DrawingExample\DrawingExample\obj\x86\Debug\DrawingExample.csproj.CoreCompileInputs.cache
+D:\GIT\AGGP247_WorkSpace\DrawingExample\DrawingExample\DrawingExample\obj\x86\Debug\DrawingExample.exe
+D:\GIT\AGGP247_WorkSpace\DrawingExample\DrawingExample\DrawingExample\obj\x86\Debug\DrawingExample.pdb
+D:\GIT\AGGP247_WorkSpace\DrawingExample\DrawingExample\DrawingExample\bin\Windows\x86\Debug\Content\Enterprise.xnb
+D:\GIT\AGGP247_WorkSpace\DrawingExample\DrawingExample\DrawingExample\bin\Windows\x86\Debug\Content\MFalcon.xnb
+D:\GIT\AGGP247_WorkSpace\DrawingExample\DrawingExample\DrawingExample\bin\Windows\x86\Debug\Content\Tie.xnb
+D:\GIT\AGGP247_WorkSpace\DrawingExample\DrawingExample\DrawingExample\bin\Windows\x86\Debug\Content\TieAdvanced.xnb
+D:\GIT\AGGP247_WorkSpace\DrawingExample\DrawingExample\DrawingExample\bin\Windows\x86\Debug\DrawingExample.exe
+D:\GIT\AGGP247_WorkSpace\DrawingExample\DrawingExample\DrawingExample\bin\Windows\x86\Debug\DrawingExample.pdb
+D:\GIT\AGGP247_WorkSpace\DrawingExample\DrawingExample\DrawingExample\bin\Windows\x86\Debug\MonoGame.Framework.dll
+D:\GIT\AGGP247_WorkSpace\DrawingExample\DrawingExample\DrawingExample\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+D:\GIT\AGGP247_WorkSpace\DrawingExample\DrawingExample\DrawingExample\bin\Windows\x86\Debug\SharpDX.dll
+D:\GIT\AGGP247_WorkSpace\DrawingExample\DrawingExample\DrawingExample\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+D:\GIT\AGGP247_WorkSpace\DrawingExample\DrawingExample\DrawingExample\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+D:\GIT\AGGP247_WorkSpace\DrawingExample\DrawingExample\DrawingExample\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+D:\GIT\AGGP247_WorkSpace\DrawingExample\DrawingExample\DrawingExample\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+D:\GIT\AGGP247_WorkSpace\DrawingExample\DrawingExample\DrawingExample\bin\Windows\x86\Debug\SharpDX.XInput.dll
+D:\GIT\AGGP247_WorkSpace\DrawingExample\DrawingExample\DrawingExample\bin\Windows\x86\Debug\MonoGame.Framework.xml
+D:\GIT\AGGP247_WorkSpace\DrawingExample\DrawingExample\DrawingExample\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+D:\GIT\AGGP247_WorkSpace\DrawingExample\DrawingExample\DrawingExample\bin\Windows\x86\Debug\SharpDX.xml
+D:\GIT\AGGP247_WorkSpace\DrawingExample\DrawingExample\DrawingExample\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+D:\GIT\AGGP247_WorkSpace\DrawingExample\DrawingExample\DrawingExample\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+D:\GIT\AGGP247_WorkSpace\DrawingExample\DrawingExample\DrawingExample\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+D:\GIT\AGGP247_WorkSpace\DrawingExample\DrawingExample\DrawingExample\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+D:\GIT\AGGP247_WorkSpace\DrawingExample\DrawingExample\DrawingExample\bin\Windows\x86\Debug\SharpDX.XInput.xml
+D:\GIT\AGGP247_WorkSpace\DrawingExample\DrawingExample\DrawingExample\obj\x86\Debug\DrawingExample.csproj.CopyComplete
+D:\GIT\AGGP247_WorkSpace\DrawingExample\DrawingExample\bin\Windows\x86\Debug\Content\Enterprise.xnb
+D:\GIT\AGGP247_WorkSpace\DrawingExample\DrawingExample\bin\Windows\x86\Debug\Content\MFalcon.xnb
+D:\GIT\AGGP247_WorkSpace\DrawingExample\DrawingExample\bin\Windows\x86\Debug\Content\Tie.xnb
+D:\GIT\AGGP247_WorkSpace\DrawingExample\DrawingExample\bin\Windows\x86\Debug\Content\TieAdvanced.xnb
+D:\GIT\AGGP247_WorkSpace\DrawingExample\DrawingExample\bin\Windows\x86\Debug\DrawingExample.exe
+D:\GIT\AGGP247_WorkSpace\DrawingExample\DrawingExample\bin\Windows\x86\Debug\DrawingExample.pdb
+D:\GIT\AGGP247_WorkSpace\DrawingExample\DrawingExample\bin\Windows\x86\Debug\MonoGame.Framework.dll
+D:\GIT\AGGP247_WorkSpace\DrawingExample\DrawingExample\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+D:\GIT\AGGP247_WorkSpace\DrawingExample\DrawingExample\bin\Windows\x86\Debug\SharpDX.dll
+D:\GIT\AGGP247_WorkSpace\DrawingExample\DrawingExample\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+D:\GIT\AGGP247_WorkSpace\DrawingExample\DrawingExample\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+D:\GIT\AGGP247_WorkSpace\DrawingExample\DrawingExample\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+D:\GIT\AGGP247_WorkSpace\DrawingExample\DrawingExample\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+D:\GIT\AGGP247_WorkSpace\DrawingExample\DrawingExample\bin\Windows\x86\Debug\SharpDX.XInput.dll
+D:\GIT\AGGP247_WorkSpace\DrawingExample\DrawingExample\bin\Windows\x86\Debug\MonoGame.Framework.xml
+D:\GIT\AGGP247_WorkSpace\DrawingExample\DrawingExample\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+D:\GIT\AGGP247_WorkSpace\DrawingExample\DrawingExample\bin\Windows\x86\Debug\SharpDX.xml
+D:\GIT\AGGP247_WorkSpace\DrawingExample\DrawingExample\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+D:\GIT\AGGP247_WorkSpace\DrawingExample\DrawingExample\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+D:\GIT\AGGP247_WorkSpace\DrawingExample\DrawingExample\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+D:\GIT\AGGP247_WorkSpace\DrawingExample\DrawingExample\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+D:\GIT\AGGP247_WorkSpace\DrawingExample\DrawingExample\bin\Windows\x86\Debug\SharpDX.XInput.xml
+D:\GIT\AGGP247_WorkSpace\DrawingExample\DrawingExample\obj\x86\Debug\DrawingExample.csprojAssemblyReference.cache
+D:\GIT\AGGP247_WorkSpace\DrawingExample\DrawingExample\obj\x86\Debug\DrawingExample.csproj.CoreCompileInputs.cache
+D:\GIT\AGGP247_WorkSpace\DrawingExample\DrawingExample\obj\x86\Debug\DrawingExample.csproj.CopyComplete
+D:\GIT\AGGP247_WorkSpace\DrawingExample\DrawingExample\obj\x86\Debug\DrawingExample.exe
+D:\GIT\AGGP247_WorkSpace\DrawingExample\DrawingExample\obj\x86\Debug\DrawingExample.pdb
+C:\College\AGGP\Math and Physics\Lab04\DrawingExample\DrawingExample\bin\Windows\x86\Debug\Content\Enterprise.xnb
+C:\College\AGGP\Math and Physics\Lab04\DrawingExample\DrawingExample\bin\Windows\x86\Debug\Content\MFalcon.xnb
+C:\College\AGGP\Math and Physics\Lab04\DrawingExample\DrawingExample\bin\Windows\x86\Debug\Content\Tie.xnb
+C:\College\AGGP\Math and Physics\Lab04\DrawingExample\DrawingExample\bin\Windows\x86\Debug\Content\TieAdvanced.xnb
+C:\College\AGGP\Math and Physics\Lab04\DrawingExample\DrawingExample\bin\Windows\x86\Debug\DrawingExample.exe
+C:\College\AGGP\Math and Physics\Lab04\DrawingExample\DrawingExample\bin\Windows\x86\Debug\DrawingExample.pdb
+C:\College\AGGP\Math and Physics\Lab04\DrawingExample\DrawingExample\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\College\AGGP\Math and Physics\Lab04\DrawingExample\DrawingExample\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\College\AGGP\Math and Physics\Lab04\DrawingExample\DrawingExample\bin\Windows\x86\Debug\SharpDX.dll
+C:\College\AGGP\Math and Physics\Lab04\DrawingExample\DrawingExample\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\College\AGGP\Math and Physics\Lab04\DrawingExample\DrawingExample\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\College\AGGP\Math and Physics\Lab04\DrawingExample\DrawingExample\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\College\AGGP\Math and Physics\Lab04\DrawingExample\DrawingExample\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\College\AGGP\Math and Physics\Lab04\DrawingExample\DrawingExample\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\College\AGGP\Math and Physics\Lab04\DrawingExample\DrawingExample\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\College\AGGP\Math and Physics\Lab04\DrawingExample\DrawingExample\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\College\AGGP\Math and Physics\Lab04\DrawingExample\DrawingExample\bin\Windows\x86\Debug\SharpDX.xml
+C:\College\AGGP\Math and Physics\Lab04\DrawingExample\DrawingExample\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\College\AGGP\Math and Physics\Lab04\DrawingExample\DrawingExample\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\College\AGGP\Math and Physics\Lab04\DrawingExample\DrawingExample\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\College\AGGP\Math and Physics\Lab04\DrawingExample\DrawingExample\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\College\AGGP\Math and Physics\Lab04\DrawingExample\DrawingExample\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\College\AGGP\Math and Physics\Lab04\DrawingExample\DrawingExample\obj\x86\Debug\DrawingExample.csprojAssemblyReference.cache
+C:\College\AGGP\Math and Physics\Lab04\DrawingExample\DrawingExample\obj\x86\Debug\DrawingExample.csproj.CoreCompileInputs.cache
+C:\College\AGGP\Math and Physics\Lab04\DrawingExample\DrawingExample\obj\x86\Debug\DrawingExample.csproj.CopyComplete
+C:\College\AGGP\Math and Physics\Lab04\DrawingExample\DrawingExample\obj\x86\Debug\DrawingExample.exe
+C:\College\AGGP\Math and Physics\Lab04\DrawingExample\DrawingExample\obj\x86\Debug\DrawingExample.pdb
+C:\College\AGGP\Math and Physics\Lab05\DrawingExample\DrawingExample\bin\Windows\x86\Debug\Content\Enterprise.xnb
+C:\College\AGGP\Math and Physics\Lab05\DrawingExample\DrawingExample\bin\Windows\x86\Debug\Content\MFalcon.xnb
+C:\College\AGGP\Math and Physics\Lab05\DrawingExample\DrawingExample\bin\Windows\x86\Debug\Content\Tie.xnb
+C:\College\AGGP\Math and Physics\Lab05\DrawingExample\DrawingExample\bin\Windows\x86\Debug\Content\TieAdvanced.xnb
+C:\College\AGGP\Math and Physics\Lab05\DrawingExample\DrawingExample\bin\Windows\x86\Debug\DrawingExample.exe
+C:\College\AGGP\Math and Physics\Lab05\DrawingExample\DrawingExample\bin\Windows\x86\Debug\DrawingExample.pdb
+C:\College\AGGP\Math and Physics\Lab05\DrawingExample\DrawingExample\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\College\AGGP\Math and Physics\Lab05\DrawingExample\DrawingExample\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\College\AGGP\Math and Physics\Lab05\DrawingExample\DrawingExample\bin\Windows\x86\Debug\SharpDX.dll
+C:\College\AGGP\Math and Physics\Lab05\DrawingExample\DrawingExample\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\College\AGGP\Math and Physics\Lab05\DrawingExample\DrawingExample\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\College\AGGP\Math and Physics\Lab05\DrawingExample\DrawingExample\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\College\AGGP\Math and Physics\Lab05\DrawingExample\DrawingExample\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\College\AGGP\Math and Physics\Lab05\DrawingExample\DrawingExample\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\College\AGGP\Math and Physics\Lab05\DrawingExample\DrawingExample\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\College\AGGP\Math and Physics\Lab05\DrawingExample\DrawingExample\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\College\AGGP\Math and Physics\Lab05\DrawingExample\DrawingExample\bin\Windows\x86\Debug\SharpDX.xml
+C:\College\AGGP\Math and Physics\Lab05\DrawingExample\DrawingExample\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\College\AGGP\Math and Physics\Lab05\DrawingExample\DrawingExample\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\College\AGGP\Math and Physics\Lab05\DrawingExample\DrawingExample\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\College\AGGP\Math and Physics\Lab05\DrawingExample\DrawingExample\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\College\AGGP\Math and Physics\Lab05\DrawingExample\DrawingExample\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\College\AGGP\Math and Physics\Lab05\DrawingExample\DrawingExample\obj\x86\Debug\DrawingExample.csprojAssemblyReference.cache
+C:\College\AGGP\Math and Physics\Lab05\DrawingExample\DrawingExample\obj\x86\Debug\DrawingExample.csproj.CoreCompileInputs.cache
+C:\College\AGGP\Math and Physics\Lab05\DrawingExample\DrawingExample\obj\x86\Debug\DrawingExample.csproj.CopyComplete
+C:\College\AGGP\Math and Physics\Lab05\DrawingExample\DrawingExample\obj\x86\Debug\DrawingExample.exe
+C:\College\AGGP\Math and Physics\Lab05\DrawingExample\DrawingExample\obj\x86\Debug\DrawingExample.pdb
+C:\College\AGGP\Math and Physics\Lab05\DrawingExample\DrawingExample\bin\Windows\x86\Debug\Content\Font.xnb
+E:\MonoGame\Final\Lab05\DrawingExample\DrawingExample\bin\Windows\x86\Debug\Content\Font.xnb
+E:\MonoGame\Final\Lab05\DrawingExample\DrawingExample\bin\Windows\x86\Debug\DrawingExample.exe
+E:\MonoGame\Final\Lab05\DrawingExample\DrawingExample\bin\Windows\x86\Debug\DrawingExample.pdb
+E:\MonoGame\Final\Lab05\DrawingExample\DrawingExample\bin\Windows\x86\Debug\MonoGame.Framework.dll
+E:\MonoGame\Final\Lab05\DrawingExample\DrawingExample\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+E:\MonoGame\Final\Lab05\DrawingExample\DrawingExample\bin\Windows\x86\Debug\SharpDX.dll
+E:\MonoGame\Final\Lab05\DrawingExample\DrawingExample\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+E:\MonoGame\Final\Lab05\DrawingExample\DrawingExample\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+E:\MonoGame\Final\Lab05\DrawingExample\DrawingExample\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+E:\MonoGame\Final\Lab05\DrawingExample\DrawingExample\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+E:\MonoGame\Final\Lab05\DrawingExample\DrawingExample\bin\Windows\x86\Debug\SharpDX.XInput.dll
+E:\MonoGame\Final\Lab05\DrawingExample\DrawingExample\bin\Windows\x86\Debug\MonoGame.Framework.xml
+E:\MonoGame\Final\Lab05\DrawingExample\DrawingExample\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+E:\MonoGame\Final\Lab05\DrawingExample\DrawingExample\bin\Windows\x86\Debug\SharpDX.xml
+E:\MonoGame\Final\Lab05\DrawingExample\DrawingExample\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+E:\MonoGame\Final\Lab05\DrawingExample\DrawingExample\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+E:\MonoGame\Final\Lab05\DrawingExample\DrawingExample\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+E:\MonoGame\Final\Lab05\DrawingExample\DrawingExample\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+E:\MonoGame\Final\Lab05\DrawingExample\DrawingExample\bin\Windows\x86\Debug\SharpDX.XInput.xml
+E:\MonoGame\Final\Lab05\DrawingExample\DrawingExample\obj\x86\Debug\DrawingExample.csprojAssemblyReference.cache
+E:\MonoGame\Final\Lab05\DrawingExample\DrawingExample\obj\x86\Debug\DrawingExample.csproj.CoreCompileInputs.cache
+E:\MonoGame\Final\Lab05\DrawingExample\DrawingExample\obj\x86\Debug\DrawingExample.csproj.CopyComplete
+E:\MonoGame\Final\Lab05\DrawingExample\DrawingExample\obj\x86\Debug\DrawingExample.exe
+E:\MonoGame\Final\Lab05\DrawingExample\DrawingExample\obj\x86\Debug\DrawingExample.pdb
+E:\MonoGame\Final\Lab05\DrawingExample\DrawingExample\bin\Windows\x86\Debug\Content\ mainTheme.wma
+E:\MonoGame\Final\Lab05\DrawingExample\DrawingExample\bin\Windows\x86\Debug\Content\ mainTheme.xnb
+E:\MonoGame\Final\Lab05\DrawingExample\DrawingExample\bin\Windows\x86\Debug\Content\mainTheme.wma
+E:\MonoGame\Final\Lab05\DrawingExample\DrawingExample\bin\Windows\x86\Debug\Content\mainTheme.xnb
+E:\MonoGame\Final\Lab05\DrawingExample\DrawingExample\bin\Windows\x86\Debug\Content\explosion.xnb
+E:\MonoGame\Final\Lab05\DrawingExample\DrawingExample\bin\Windows\x86\Debug\Content\shoot.xnb
+E:\MonoGame\Final\Lab05\DrawingExample\DrawingExample\bin\Windows\x86\Debug\Content\hit.xnb

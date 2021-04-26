@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/College/AGGP/Math and Physics/Lab05/DrawingExample/DrawingExample/Content/Enterprise.png</File>
+    <File>C:/College/AGGP/Math and Physics/Lab05/DrawingExample/DrawingExample/Content/File.spritefont</File>
+    <File>C:/College/AGGP/Math and Physics/Lab05/DrawingExample/DrawingExample/Content/MFalcon.png</File>
+    <File>C:/College/AGGP/Math and Physics/Lab05/DrawingExample/DrawingExample/Content/Tie.png</File>
+    <File>C:/College/AGGP/Math and Physics/Lab05/DrawingExample/DrawingExample/Content/TieAdvanced.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File>Font.spritefont</File>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

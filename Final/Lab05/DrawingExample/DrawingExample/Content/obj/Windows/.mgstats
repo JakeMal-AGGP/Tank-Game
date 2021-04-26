@@ -1,0 +1,6 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"E:/MonoGame/Final/Lab05/DrawingExample/DrawingExample/Content/explosion.wav","E:/MonoGame/Final/Lab05/DrawingExample/DrawingExample/Content/bin/Windows/explosion.xnb","SoundEffectProcessor","SoundEffectContent",45576,45637,0.2304129
+"E:/MonoGame/Final/Lab05/DrawingExample/DrawingExample/Content/File.spritefont","E:/MonoGame/Final/Lab05/DrawingExample/DrawingExample/Content/bin/Windows/Font.xnb","FontDescriptionProcessor","SpriteFontContent",2008,21521,0.1601395
+"E:/MonoGame/Final/Lab05/DrawingExample/DrawingExample/Content/hit.wav","E:/MonoGame/Final/Lab05/DrawingExample/DrawingExample/Content/bin/Windows/hit.xnb","SoundEffectProcessor","SoundEffectContent",19774,19835,0.2322674
+"E:/MonoGame/Final/Lab05/DrawingExample/DrawingExample/Content/sawsquarenoise - Stage  3.mp3","E:/MonoGame/Final/Lab05/DrawingExample/DrawingExample/Content/bin/Windows/mainTheme.xnb","SongProcessor","SongContent",7154481,127,1.266127
+"E:/MonoGame/Final/Lab05/DrawingExample/DrawingExample/Content/shoot.wav","E:/MonoGame/Final/Lab05/DrawingExample/DrawingExample/Content/bin/Windows/shoot.xnb","SoundEffectProcessor","SoundEffectContent",11518,11579,0.1296533
